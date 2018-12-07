@@ -1,0 +1,108 @@
+[
+    {
+        "id":01,
+        "name":"Bethesda",
+        "founded-date":"28-06-1986",
+        "country":"USA",
+        "game":[
+            "Fallout [Series]",
+            "Doom [Series]",
+            "The Evil Within [Series]"
+        ]
+    },
+    {
+        "id":02,
+        "name":"Naughty Dog",
+        "founded-date":"27-09-1984",
+        "country":"USA",
+        "game":[
+            "Crash Bandicoot",
+            "Uncharted [Series]",
+            "The Last of US"
+        ]
+    },
+    {
+        "id":03,
+        "name":"Epic Games",
+        "founded-date":"1991",
+        "country":"USA",
+        "game":[
+            "Fortnite",
+            "Gears of War [Series]",
+            "Infinity Blade"
+        ]
+    },
+    {
+        "id":04,
+        "name":"Blizzard",
+        "founded-date":"08-02-1991",
+        "country":"USA",
+        "game":[
+            "World of Warcraft [Series]",
+            "Overwatch",
+            "Hearthstone"
+        ]
+    },
+    {
+        "id":05,
+        "name":"Square Enix",
+        "founded-date":"22-09-1975",
+        "country":"Japan",
+        "game":[
+            "Final Fantasy [Series]",
+            "Dragon Quest [Series]",
+            "Kingdom Heart [Series]"
+        ]
+    },
+    {
+        "id": 06,
+        "name": "Capcom",
+        "founded-date": "30-05-1979",
+        "country": "Japan",
+        "game": [
+            "Megaman [Series]",
+            "Metal Gear Solid [Series]",
+            "Street Fighter [Series]",
+            "Devil May Cry [Series]",
+            "Monster Hunter [Series]"
+        ]
+    },
+    {
+        "id": 07,
+        "name": "Rockstar",
+        "founded-date": "??-12-1998",
+        "country": "USA",
+        "game": [
+            "Grand Thief Auto [Series]",
+            "Red Dead [Series]",
+            "L.A.Noire"
+        ]
+    },
+    {
+        "id": 05,
+        "name": "",
+        "founded-date": "",
+        "country": "",
+        "game": [
+            ""
+        ]
+    },
+    {
+        "id": 05,
+        "name": "",
+        "founded-date": "",
+        "country": "",
+        "game": [
+            ""
+        ]
+    },
+    {
+        "id": 05,
+        "name": "",
+        "founded-date": "",
+        "country": "",
+        "game": [
+            ""
+        ]
+    },
+]
